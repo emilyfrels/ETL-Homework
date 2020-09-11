@@ -10,6 +10,6 @@ final_game DATE
 
 CREATE TABLE hall_of_fame (
 player_id INT PRIMARY KEY,
-year_id VARCHAR,
+yearid VARCHAR,
 inducted TEXT
 );
