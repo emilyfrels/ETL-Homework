@@ -1,11 +1,9 @@
-# ETL-Homework
-
-## Baseball Hall of Fame
+# Baseball Hall of Fame
 
 
-### There are some important instructions before you get started which you will follow along in the players_etl jupyter notebook.
+## There are some important instructions before you get started which you will follow along in the players_etl jupyter notebook.
 
-### Quick Overview:
+## Quick Overview:
 
 1. Open PostgreSQL and create the tables.
 2. Extract the CSV files.
