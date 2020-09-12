@@ -18,3 +18,6 @@
 1. Load the dataframes into the tables and database you've already created.
 1. Run a couple queries to confirm the data loaded successfully.
 
+## Bonus:
+If you would like to see some results from the data in the tables, make note of the last instruction in the jupyter notebook. There is a **queries.sql** file available to run a few queries on the data.
+
