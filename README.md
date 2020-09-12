@@ -1,5 +1,7 @@
 # Baseball Hall of Fame
 
+![Image of Baseball HOF](https://www.whec.com/whecimages/repository/2019-02/1280x72080124b00-egxsv-1.jpg)
+
 
 ## There are some important instructions before you get started which you will follow along in the players_etl jupyter notebook.
 
